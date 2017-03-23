@@ -1,0 +1,16 @@
+﻿.nav-container1
+{
+    background:url(../images/header-bg.jpg) repeat-x 0 0;
+}
+.f-nav1
+{
+    z-index:9999;
+    position: fixed;
+    left:0;
+    top:0;
+    width:100%;        
+}
+.nav1
+{
+    height:42px;
+}
